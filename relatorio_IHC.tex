@@ -1,0 +1,45 @@
+\input{headers/pacotes}
+\input{headers/comandos}
+
+\input{source/informacoes}
+\input{headers/setup}
+
+\begin{document}
+
+	\frontmatter
+		\frenchspacing
+		\imprimircapa
+		\renewcommand{\imprimirorientadorRotulo}{ Orientador: }
+		\imprimirfolhaderosto
+		
+		\input{headers/indiceAutomatico}
+		\input{headers/listasAutomaticas}
+		\input{source/abreviaturas}
+
+	\textual
+
+	\mainmatter
+		\input{source/resumo}		
+		\input{source/versionamento}		
+		\input{source/cronograma}
+		\input{source/repositorio}
+		\input{source/introducao}
+		\input{source/metasUsabilidade}
+		\input{source/metasExperienciaUsuario}
+		\input{source/storyBoard}
+		\input{source/prototipos}
+		\input{source/questionarios}
+		\input{source/ciclosDeVida}
+		\input{source/avaliacaoPrototipos}
+		\input{source/termoConsentimento}
+		\input{source/ferramentas}
+		\input{source/requisitos}
+		\bibliography{bibliografia}
+		
+	\backmatter
+		\bookmarksetup{startatroot} 
+		\postextual
+
+    		\printindex
+
+\end{document}
