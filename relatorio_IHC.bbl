@@ -5,4 +5,64 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.2 }
 
+\bibitem[Barbosa 2014]{avaliacao}
+\abntrefinfo{Barbosa}{BARBOSA}{2014}
+{BARBOSA, S. D.~J. \emph{Avaliação de Interfaces de Usuário – Conceitos e
+  Métodos}. 2014.
+Dispon{\'\i}vel em:
+  \url{http://homepages.dcc.ufmg.br/~rprates/ge\_vis/cap6\_vfinal.pdf}.}
+
+\bibitem[Blackstock 2014]{bit}
+\abntrefinfo{Blackstock}{BLACKSTOCK}{2014}
+{BLACKSTOCK, J. \emph{BitStrips}. 2014.
+Dispon{\'\i}vel em: \url{http://www.bitstrips.com/}.}
+
+\bibitem[FluidSoftware 2014]{fluid}
+\abntrefinfo{FluidSoftware}{FLUIDSOFTWARE}{2014}
+{FLUIDSOFTWARE. \emph{Tools Fluid UI}. 2014.
+Dispon{\'\i}vel em: \url{https://www.fluidui.com}.}
+
+\bibitem[Justinmind 2014]{just}
+\abntrefinfo{Justinmind}{JUSTINMIND}{2014}
+{JUSTINMIND. \emph{Justinmind Prototyper}. 2014.
+Dispon{\'\i}vel em: \url{http://www.bitstrips.com/}.}
+
+\bibitem[Kirakowski 2014]{sumi}
+\abntrefinfo{Kirakowski}{KIRAKOWSKI}{2014}
+{KIRAKOWSKI, J. \emph{SUMI - Software Usability Measurement Inventory}. 2014.
+Dispon{\'\i}vel em: \url{https://sumi.ucc.ie/}.}
+
+\bibitem[Medeiros 1999]{iso}
+\abntrefinfo{Medeiros}{MEDEIROS}{1999}
+{MEDEIROS, M.~A. \emph{ISO 9241: uma proposta de utilização da Norma para
+  avaliação do grau de satisfação de usuários de software}.
+  Florianópolis, SC: Dissertação (Mestrado em Engenharia de Produção),
+  1999.}
+
+\bibitem[Nascimento 2014]{alta}
+\abntrefinfo{Nascimento}{NASCIMENTO}{2014}
+{NASCIMENTO, T. \emph{A importância dos protótipos no desenvolvimento de
+  sistemas}. 2014.
+Dispon{\'\i}vel em: \url{http://thiagonasc.com/tag/ui}.}
+
+\bibitem[Net 2006]{paper}
+\abntrefinfo{Net}{NET}{2006}
+{NET, U. \emph{Paper prototyping}. 2006.
+Dispon{\'\i}vel em: \url{http://www.usabilitynet.org/tools/prototyping.htm}.}
+
+\bibitem[Norman 2013]{quis}
+\abntrefinfo{Norman}{NORMAN}{2013}
+{NORMAN, K. \emph{QUIS - Questionnaire for User Interface Satisfaction}. 2013.
+Dispon{\'\i}vel em: \url{http://lap.umd.edu/quis/}.}
+
+\bibitem[Rogers 2005]{designEInteracao}
+\abntrefinfo{Rogers}{ROGERS}{2005}
+{ROGERS, Y. \emph{Design de Interação: Além da interação
+  homem-computador}. São Paulo, SP: Editora Erica, 2005.}
+
+\bibitem[UFSC 2011]{ergoList}
+\abntrefinfo{UFSC}{UFSC}{2011}
+{UFSC, L. de~utilizabilidade. \emph{ErgoList}. 2011.
+Dispon{\'\i}vel em: \url{https://www.labiutil.inf.ufsc.br/ergolist/}.}
+
 \end{thebibliography}

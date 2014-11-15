@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.2)  2 NOV 2014 03:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.2)  15 NOV 2014 03:26
 entering extended mode
 **relatorio_IHC.tex
-(C:\Users\Augusto\Desktop\Relatorio-IHC\relatorio_IHC.tex
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\Augusto\Desktop\Relatorio-IHC\headers/pacotes.tex
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\headers/pacotes.tex
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\abntex2\abntex2.cls"
 Document Class: abntex2 2014/01/26 v1.9.2 abnTeX2
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
@@ -934,16 +934,54 @@ Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
 Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
 ))
-(C:\Users\Augusto\Desktop\Relatorio-IHC\headers/comandos.tex)
-(C:\Users\Augusto\Desktop\Relatorio-IHC\source/informacoes.tex)
-(C:\Users\Augusto\Desktop\Relatorio-IHC\headers/setup.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+
+Class memoir Warning: You are using the caption package with the memoir class. 
+To prepare we will now reset all captioning macros and configurations to kernel
+ defaults, and then let the caption package take over. Please remember to use t
+he caption package interfaces in order to configure your captions. .
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen159
+\captionmargin@=\dimen160
+\captionwidth=\dimen161
+\caption@tempdima=\dimen162
+\caption@indent=\dimen163
+\caption@parindent=\dimen164
+\caption@hangindent=\dimen165
+)
+\c@ContinuedFloat=\count171
+Package caption Info: hyperref package is loaded.
+)
+\c@KVtest=\count172
+\sf@farskip=\skip202
+\sf@captopadj=\dimen166
+\sf@capskip=\skip203
+\sf@nearskip=\skip204
+\c@subfigure=\count173
+\c@subfigure@save=\count174
+\c@subtable=\count175
+\c@subtable@save=\count176
+\sf@top=\skip205
+\sf@bottom=\skip206
+)
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\headers/comandos.tex)
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/informacoes.tex)
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\headers/setup.tex
 Package color Info: Redefining color black on input line 1.
 Package hyperref Info: Option `colorlinks' set `true' on input line 13.
 )
 \relatorio_IHC@idxfile=\write4
 
 Writing index file relatorio_IHC.idx 
-(C:\Users\Augusto\Desktop\Relatorio-IHC\relatorio_IHC.aux
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.aux
 
 LaTeX Warning: Label `tab:versionamento_tabl' multiply defined.
 
@@ -957,7 +995,100 @@ LaTeX Warning: Label `sec:metasUsabilidade_eficiencia' multiply defined.
 LaTeX Warning: Label `fig:metas_Experiencia_Usuario' multiply defined.
 
 
+LaTeX Warning: Label `fig03-1int' multiply defined.
+
+
+LaTeX Warning: Label `fig03-1int' multiply defined.
+
+
+LaTeX Warning: Label `alta1' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta1' multiply defined.
+
+
+LaTeX Warning: Label `alta2' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta2' multiply defined.
+
+
+LaTeX Warning: Label `alta3' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta3' multiply defined.
+
+
+LaTeX Warning: Label `alta4' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta4' multiply defined.
+
+
+LaTeX Warning: Label `fig03-1int' multiply defined.
+
+
+LaTeX Warning: Label `alta5' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta5' multiply defined.
+
+
+LaTeX Warning: Label `alta6' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta6' multiply defined.
+
+
+LaTeX Warning: Label `alta7' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta7' multiply defined.
+
+
+LaTeX Warning: Label `alta8' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta8' multiply defined.
+
+
+LaTeX Warning: Label `alta9' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta9' multiply defined.
+
+
+LaTeX Warning: Label `alta10' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta10' multiply defined.
+
+
+LaTeX Warning: Label `alta11' multiply defined.
+
+
+LaTeX Warning: Label `sub@alta11' multiply defined.
+
+
+LaTeX Warning: Label `fig03-1int' multiply defined.
+
+
+LaTeX Warning: Label `mapaInt1' multiply defined.
+
+
+LaTeX Warning: Label `sub@mapaInt1' multiply defined.
+
+
+LaTeX Warning: Label `fig03-1int' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo2' multiply defined.
+
+
 LaTeX Warning: Label `tab:segundaAvaliacao_tables' multiply defined.
+
+
+LaTeX Warning: Label `sec:ferramentas_bitStrips' multiply defined.
 
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -987,7 +1118,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count171
+\c@section@level=\count177
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -996,15 +1127,10 @@ LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
 LaTeX Info: Redefining \nameref on input line 7.
 LaTeX Info: Redefining \degres on input line 7.
-
-Package frenchb.ldf Warning: The definition of \@makecaption has been changed,
-(frenchb.ldf)                frenchb will NOT customise it;
-(frenchb.ldf)                reported on input line 7.
-
 LaTeX Info: Redefining \dots on input line 7.
 LaTeX Info: Redefining \up on input line 7.
 \myptabbox=\box31
-\myptabboxwidth=\skip202
+\myptabboxwidth=\skip207
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             macros/latex/contrib/pageslts/ 
@@ -1014,18 +1140,21 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 7.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count172
-\scratchdimen=\dimen159
+\scratchcounter=\count178
+\scratchdimen=\dimen167
 \scratchbox=\box32
-\nofMPsegments=\count173
-\nofMParguments=\count174
+\nofMPsegments=\count179
+\nofMParguments=\count180
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count175
-\MPscratchDim=\dimen160
-\MPnumerator=\count176
-\makeMPintoPDFobject=\count177
+\MPscratchCnt=\count181
+\MPscratchDim=\dimen168
+\MPnumerator=\count182
+\makeMPintoPDFobject=\count183
 \everyMPtoPDFconversion=\toks29
 )
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 11.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1038,8 +1167,8 @@ Package pdftex.def Info: resource/capa.pdf used on input line 11.
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Augusto/Desktop/
-Relatorio-IHC/resource/capa.pdf>]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Augusto/Document
+s/GitHub/Relatorio-IHC/resource/capa.pdf>]
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 14.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
@@ -1078,23 +1207,26 @@ l.14
 
 
 
-] (C:\Users\Augusto\Desktop\Relatorio-IHC\headers/indiceAutomatico.tex
-(C:\Users\Augusto\Desktop\Relatorio-IHC\relatorio_IHC.toc [2
+]
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\headers/indiceAutomatico.tex
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.toc [2
 
-]) [3])
-(C:\Users\Augusto\Desktop\Relatorio-IHC\headers/listasAutomaticas.tex
-(C:\Users\Augusto\Desktop\Relatorio-IHC\relatorio_IHC.lof) [4
+])
+[3])
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\headers/listasAutomaticas.tex
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.lof) [4
 
 ]
-(C:\Users\Augusto\Desktop\Relatorio-IHC\relatorio_IHC.lot) [5
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.lot) [5
 
 ])
-(C:\Users\Augusto\Desktop\Relatorio-IHC\source/abreviaturas.tex [6
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/abreviaturas.tex
+[6
 
 
-])
-(C:\Users\Augusto\Desktop\Relatorio-IHC\source/resumo.tex)
-(C:\Users\Augusto\Desktop\Relatorio-IHC\source/versionamento.tex [7
+]) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/resumo.tex)
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/versionamento.tex
+[7
 
 
 ]
@@ -1127,14 +1259,21 @@ Underfull \hbox (badness 8019) in paragraph at lines 21--21
 []|\T1/lmr/m/n/12 Revisão das in-for-ma-ções
  []
 
-) (C:\Users\Augusto\Desktop\Relatorio-IHC\source/cronograma.tex [8
+
+Underfull \hbox (badness 5022) in paragraph at lines 25--25
+[]|\T1/lmr/m/n/12 Inserção das in-for-ma-ções
+ []
+
+) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/cronograma.tex
+[8
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
 []|\T1/lmr/m/n/12 Augusto e
  []
 
-) (C:\Users\Augusto\Desktop\Relatorio-IHC\source/repositorio.tex [9
+) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/repositorio.tex
+[9
 
 ]
 Overfull \hbox (17.46895pt too wide) in paragraph at lines 6--9
@@ -1142,12 +1281,12 @@ Overfull \hbox (17.46895pt too wide) in paragraph at lines 6--9
 rs / 0B9RyeWZ5MQ2RVkluVmhmb3IzTUE>[]$[][]. 
  []
 
-) (C:\Users\Augusto\Desktop\Relatorio-IHC\source/introducao.tex [10
+) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/introducao.tex
+[10
 
 ]
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 16.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
@@ -1155,17 +1294,17 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
  [11
 
 ])
-(C:\Users\Augusto\Desktop\Relatorio-IHC\source/metasUsabilidade.tex [12]
-[13
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/metasUsabilidade.tex
+[12] [13
 
 ])
-(C:\Users\Augusto\Desktop\Relatorio-IHC\source/metasExperienciaUsuario.tex
-[14]
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/metasExperienciaUsuario
+.tex [14]
 Underfull \hbox (badness 3039) in paragraph at lines 1--1
 []\T1/lmss/m/n/24.88 Metas De-cor-ren-tes da Ex-pe-ri-ên-cia do
  []
 
-<resource/metas_Experiencia_Usuario.png, id=221, 603.0028pt x 464.4853pt>
+<resource/metas_Experiencia_Usuario.png, id=257, 603.0028pt x 464.4853pt>
 File: resource/metas_Experiencia_Usuario.png Graphic file (type png)
 
 <use resource/metas_Experiencia_Usuario.png>
@@ -1173,13 +1312,12 @@ Package pdftex.def Info: resource/metas_Experiencia_Usuario.png used on input l
 ine 10.
 (pdftex.def)             Requested size: 361.80447pt x 278.69333pt.
 )
-(C:\Users\Augusto\Desktop\Relatorio-IHC\source/storyBoard.tex [15
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/storyBoard.tex [15
 
- <C:/Users/Augusto/Desktop/Relatorio-IHC/resource/metas_Experiencia_Usuario.png
->] [16
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/metas_Experiencia_Us
+uario.png>] [16
 
-]
-<resource/story_board.png, id=230, 718.685pt x 1059.96pt>
+] <resource/story_board.png, id=271, 718.685pt x 1059.96pt>
 File: resource/story_board.png Graphic file (type png)
 
 <use resource/story_board.png>
@@ -1189,26 +1327,353 @@ Package pdftex.def Info: resource/story_board.png used on input line 14.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (C:\Users\Augusto\Desktop\Relatorio-IHC\source/prototipos.tex [17 <C:/Users/A
-ugusto/Desktop/Relatorio-IHC/resource/story_board.png (PNG copy)>] [18
+) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/prototipos.tex
+[17 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/story_board.png (
+PNG copy)>] [18
+
+] <resource/papel1.png, id=284, 220.57407pt x 294.34969pt>
+File: resource/papel1.png Graphic file (type png)
+
+<use resource/papel1.png>
+Package pdftex.def Info: resource/papel1.png used on input line 22.
+(pdftex.def)             Requested size: 142.27086pt x 199.17151pt.
+
+<resource/papel2.png, id=285, 211.54031pt x 253.69781pt>
+File: resource/papel2.png Graphic file (type png)
+
+<use resource/papel2.png>
+Package pdftex.def Info: resource/papel2.png used on input line 27.
+(pdftex.def)             Requested size: 142.26707pt x 199.17644pt.
+
+<resource/papel3.png, id=286, 200.24812pt x 278.54062pt>
+File: resource/papel3.png Graphic file (type png)
+
+<use resource/papel3.png>
+Package pdftex.def Info: resource/papel3.png used on input line 32.
+(pdftex.def)             Requested size: 142.27188pt x 199.17203pt.
+
+<resource/papel4.png, id=287, 217.5628pt x 293.59688pt>
+File: resource/papel4.png Graphic file (type png)
+
+<use resource/papel4.png>
+Package pdftex.def Info: resource/papel4.png used on input line 37.
+(pdftex.def)             Requested size: 142.27063pt x 199.16835pt.
+
+<resource/papel5.png, id=288, 207.02344pt x 306.39468pt>
+File: resource/papel5.png Graphic file (type png)
+
+<use resource/papel5.png>
+Package pdftex.def Info: resource/papel5.png used on input line 42.
+(pdftex.def)             Requested size: 142.26823pt x 199.16821pt.
+
+<resource/papel7.png, id=289, 207.02344pt x 280.04625pt>
+File: resource/papel7.png Graphic file (type png)
+
+<use resource/papel7.png>
+Package pdftex.def Info: resource/papel7.png used on input line 47.
+(pdftex.def)             Requested size: 142.26823pt x 199.17607pt.
+
+<resource/papel8.png, id=290, 216.05719pt x 187.45032pt>
+File: resource/papel8.png Graphic file (type png)
+
+<use resource/papel8.png>
+Package pdftex.def Info: resource/papel8.png used on input line 52.
+(pdftex.def)             Requested size: 227.63156pt x 199.17975pt.
+
+
+LaTeX Warning: Float too large for page by 20.85617pt on input line 55.
+
+[19 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/papel1.png> <C:/U
+sers/Augusto/Documents/GitHub/Relatorio-IHC/resource/papel2.png> <C:/Users/Augu
+sto/Documents/GitHub/Relatorio-IHC/resource/papel3.png> <C:/Users/Augusto/Docum
+ents/GitHub/Relatorio-IHC/resource/papel4.png> <C:/Users/Augusto/Documents/GitH
+ub/Relatorio-IHC/resource/papel5.png> <C:/Users/Augusto/Documents/GitHub/Relato
+rio-IHC/resource/papel7.png> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/r
+esource/papel8.png>] [20
+
 
 ]
-[19] [20]) (C:\Users\Augusto\Desktop\Relatorio-IHC\source/questionarios.tex
-[21]
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 14.
- [22
+<resource/baixa1.png, id=306, 283.0575pt x 456.95718pt>
+File: resource/baixa1.png Graphic file (type png)
 
-] [23] [24]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 124.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 124.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 124.
+<use resource/baixa1.png>
+Package pdftex.def Info: resource/baixa1.png used on input line 76.
+(pdftex.def)             Requested size: 142.26695pt x 199.16522pt.
+
+<resource/baixa2.png, id=307, 283.0575pt x 456.95718pt>
+File: resource/baixa2.png Graphic file (type png)
+
+<use resource/baixa2.png>
+Package pdftex.def Info: resource/baixa2.png used on input line 81.
+(pdftex.def)             Requested size: 142.26695pt x 199.16522pt.
+
+<resource/baixa3.png, id=308, 283.0575pt x 456.95718pt>
+File: resource/baixa3.png Graphic file (type png)
+
+<use resource/baixa3.png>
+Package pdftex.def Info: resource/baixa3.png used on input line 86.
+(pdftex.def)             Requested size: 142.26695pt x 199.16522pt.
+
+<resource/baixa4.png, id=309, 283.0575pt x 458.46281pt>
+File: resource/baixa4.png Graphic file (type png)
+
+<use resource/baixa4.png>
+Package pdftex.def Info: resource/baixa4.png used on input line 91.
+(pdftex.def)             Requested size: 142.26695pt x 199.17087pt.
+
+<resource/baixa5.png, id=310, 283.0575pt x 458.46281pt>
+File: resource/baixa5.png Graphic file (type png)
+
+<use resource/baixa5.png>
+Package pdftex.def Info: resource/baixa5.png used on input line 96.
+(pdftex.def)             Requested size: 122.34724pt x 199.17087pt.
+
+<resource/baixa6.png, id=311, 277.78781pt x 458.46281pt>
+File: resource/baixa6.png Graphic file (type png)
+
+<use resource/baixa6.png>
+Package pdftex.def Info: resource/baixa6.png used on input line 101.
+(pdftex.def)             Requested size: 122.34569pt x 199.17087pt.
+
+<resource/baixa7.png, id=312, 277.78781pt x 458.46281pt>
+File: resource/baixa7.png Graphic file (type png)
+
+<use resource/baixa7.png>
+Package pdftex.def Info: resource/baixa7.png used on input line 106.
+(pdftex.def)             Requested size: 122.34569pt x 199.17087pt.
+
+<resource/baixa8.png, id=313, 277.78781pt x 459.96844pt>
+File: resource/baixa8.png Graphic file (type png)
+
+<use resource/baixa8.png>
+Package pdftex.def Info: resource/baixa8.png used on input line 111.
+(pdftex.def)             Requested size: 122.34569pt x 199.17224pt.
+
+<resource/baixa9.png, id=314, 274.77657pt x 454.69875pt>
+File: resource/baixa9.png Graphic file (type png)
+
+<use resource/baixa9.png>
+Package pdftex.def Info: resource/baixa9.png used on input line 116.
+(pdftex.def)             Requested size: 122.34436pt x 199.17303pt.
+
+
+LaTeX Warning: Float too large for page by 20.84389pt on input line 119.
+
+[21 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/baixa1.png> <C:/U
+sers/Augusto/Documents/GitHub/Relatorio-IHC/resource/baixa2.png> <C:/Users/Augu
+sto/Documents/GitHub/Relatorio-IHC/resource/baixa3.png> <C:/Users/Augusto/Docum
+ents/GitHub/Relatorio-IHC/resource/baixa4.png> <C:/Users/Augusto/Documents/GitH
+ub/Relatorio-IHC/resource/baixa5.png> <C:/Users/Augusto/Documents/GitHub/Relato
+rio-IHC/resource/baixa6.png> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/r
+esource/baixa7.png> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/b
+aixa8.png> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/baixa9.png
+>] [22
+
+
+] <resource/parteI.png, id=335, 467.7475pt x 748.7975pt>
+File: resource/parteI.png Graphic file (type png)
+
+<use resource/parteI.png>
+Package pdftex.def Info: resource/parteI.png used on input line 144.
+(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
+
+<resource/parteII.png, id=336, 467.7475pt x 748.7975pt>
+File: resource/parteII.png Graphic file (type png)
+
+<use resource/parteII.png>
+Package pdftex.def Info: resource/parteII.png used on input line 149.
+(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
+
+<resource/parteIII.png, id=337, 467.7475pt x 748.7975pt>
+File: resource/parteIII.png Graphic file (type png)
+
+<use resource/parteIII.png>
+Package pdftex.def Info: resource/parteIII.png used on input line 154.
+(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
+
+<resource/parteIV.png, id=338, 467.7475pt x 748.7975pt>
+File: resource/parteIV.png Graphic file (type png)
+
+<use resource/parteIV.png>
+Package pdftex.def Info: resource/parteIV.png used on input line 159.
+(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
+
+<resource/parteV.png, id=339, 467.7475pt x 748.7975pt>
+File: resource/parteV.png Graphic file (type png)
+
+<use resource/parteV.png>
+Package pdftex.def Info: resource/parteV.png used on input line 169.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+
+<resource/parteVI.png, id=340, 467.7475pt x 748.7975pt>
+File: resource/parteVI.png Graphic file (type png)
+
+<use resource/parteVI.png>
+Package pdftex.def Info: resource/parteVI.png used on input line 174.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+
+<resource/parteVII.png, id=341, 467.7475pt x 748.7975pt>
+File: resource/parteVII.png Graphic file (type png)
+
+<use resource/parteVII.png>
+Package pdftex.def Info: resource/parteVII.png used on input line 179.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+
+<resource/parteVIII.png, id=342, 350.81062pt x 561.59813pt>
+File: resource/parteVIII.png Graphic file (type png)
+
+<use resource/parteVIII.png>
+Package pdftex.def Info: resource/parteVIII.png used on input line 184.
+(pdftex.def)             Requested size: 142.26486pt x 199.16734pt.
+
+<resource/parteIX.png, id=344, 467.7475pt x 748.7975pt>
+File: resource/parteIX.png Graphic file (type png)
+
+<use resource/parteIX.png>
+Package pdftex.def Info: resource/parteIX.png used on input line 189.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+
+<resource/parteX.png, id=345, 467.7475pt x 748.7975pt>
+File: resource/parteX.png Graphic file (type png)
+
+<use resource/parteX.png>
+Package pdftex.def Info: resource/parteX.png used on input line 194.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+
+<resource/parteXI.png, id=346, 467.7475pt x 748.7975pt>
+File: resource/parteXI.png Graphic file (type png)
+
+<use resource/parteXI.png>
+Package pdftex.def Info: resource/parteXI.png used on input line 199.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+
+
+LaTeX Warning: Float too large for page by 20.84612pt on input line 202.
+
+[23
+
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/parteI.png (PNG copy
+)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/parteII.png (PNG c
+opy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/parteIII.png (P
+NG copy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/parteIV.png
+ (PNG copy)>] [24 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/par
+teV.png (PNG copy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/p
+arteVI.png (PNG copy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resourc
+e/parteVII.png (PNG copy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/res
+ource/parteVIII.png> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/
+parteIX.png (PNG copy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resour
+ce/parteX.png (PNG copy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/reso
+urce/parteXI.png (PNG copy)>]
+<resource/mapa.jpg, id=368, 367.3725pt x 1104.125pt>
+File: resource/mapa.jpg Graphic file (type jpg)
+ <use resource/mapa.jpg>
+Package pdftex.def Info: resource/mapa.jpg used on input line 210.
+(pdftex.def)             Requested size: 284.54816pt x 625.98828pt.
+
+[25
+
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/mapa.jpg (PNG copy)>
+]
+File: resource/parteI.png Graphic file (type png)
+ <use resource/parteI.png>
+Package pdftex.def Info: resource/parteI.png used on input line 226.
+(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
+File: resource/parteII.png Graphic file (type png)
+ <use resource/parteII.png>
+Package pdftex.def Info: resource/parteII.png used on input line 231.
+(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
+File: resource/parteIII.png Graphic file (type png)
+
+<use resource/parteIII.png>
+Package pdftex.def Info: resource/parteIII.png used on input line 236.
+(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
+File: resource/parteIV.png Graphic file (type png)
+ <use resource/parteIV.png>
+Package pdftex.def Info: resource/parteIV.png used on input line 241.
+(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
+File: resource/parteV.png Graphic file (type png)
+
+<use resource/parteV.png>
+Package pdftex.def Info: resource/parteV.png used on input line 251.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+File: resource/parteVI.png Graphic file (type png)
+ <use resource/parteVI.png>
+Package pdftex.def Info: resource/parteVI.png used on input line 256.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+File: resource/parteVII.png Graphic file (type png)
+
+<use resource/parteVII.png>
+Package pdftex.def Info: resource/parteVII.png used on input line 261.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+File: resource/parteVIII.png Graphic file (type png)
+ <use resource/parteVIII.png>
+Package pdftex.def Info: resource/parteVIII.png used on input line 266.
+(pdftex.def)             Requested size: 142.26486pt x 199.16734pt.
+File: resource/parteIX.png Graphic file (type png)
+
+<use resource/parteIX.png>
+Package pdftex.def Info: resource/parteIX.png used on input line 271.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+File: resource/parteX.png Graphic file (type png)
+ <use resource/parteX.png>
+Package pdftex.def Info: resource/parteX.png used on input line 276.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+File: resource/parteXI.png Graphic file (type png)
+
+<use resource/parteXI.png>
+Package pdftex.def Info: resource/parteXI.png used on input line 281.
+(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+
+
+LaTeX Warning: Float too large for page by 20.84612pt on input line 284.
+
+[26
+
+] [27]
+File: resource/mapa.jpg Graphic file (type jpg)
+ <use resource/mapa.jpg>
+Package pdftex.def Info: resource/mapa.jpg used on input line 292.
+(pdftex.def)             Requested size: 284.54816pt x 625.98828pt.
 )
-(C:\Users\Augusto\Desktop\Relatorio-IHC\source/ciclosDeVida.tex [25]
-<resource/ciclo_De_Vida_Simplesciclo_De_Vida_Simples.png, id=271, 368.1253pt x 
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/questionarios.tex
+[28
+
+]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 16.
+ <resource/logo1.png, id=398, 218.8175pt x 58.2175pt>
+File: resource/logo1.png Graphic file (type png)
+
+<use resource/logo1.png>
+Package pdftex.def Info: resource/logo1.png used on input line 21.
+(pdftex.def)             Requested size: 109.40848pt x 29.10867pt.
+ [29
+
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/logo1.png>] <resourc
+e/logo2.png, id=410, 590.205pt x 171.64125pt>
+File: resource/logo2.png Graphic file (type png)
+
+<use resource/logo2.png>
+Package pdftex.def Info: resource/logo2.png used on input line 68.
+(pdftex.def)             Requested size: 236.0778pt x 68.65527pt.
+ [30 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/logo2.png>] <res
+ource/logo3.png, id=424, 141.52875pt x 81.30376pt>
+File: resource/logo3.png Graphic file (type png)
+
+<use resource/logo3.png>
+Package pdftex.def Info: resource/logo3.png used on input line 101.
+(pdftex.def)             Requested size: 84.9179pt x 48.78261pt.
+ [31 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/logo3.png>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 146.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 146.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 146.
+)
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/ciclosDeVida.tex
+[32]
+<resource/ciclo_De_Vida_Simplesciclo_De_Vida_Simples.png, id=443, 368.1253pt x 
 293.59688pt>
 File: resource/ciclo_De_Vida_Simplesciclo_De_Vida_Simples.png Graphic file (typ
 e png)
@@ -1220,80 +1685,108 @@ g used on input line 23.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26
+[33
 
-] [27 <C:/Users/Augusto/Desktop/Relatorio-IHC/resource/ciclo_De_Vida_Simplescic
-lo_De_Vida_Simples.png>])
-(C:\Users\Augusto\Desktop\Relatorio-IHC\source/avaliacaoPrototipos.tex [28]
-[29
+] [34 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/ciclo_De_Vida_S
+implesciclo_De_Vida_Simples.png>]
+<resource/cicloUE.png, id=458, 1250.6725pt x 1697.34125pt>
+File: resource/cicloUE.png Graphic file (type png)
 
-] [30] [31]
+<use resource/cicloUE.png>
+Package pdftex.def Info: resource/cicloUE.png used on input line 63.
+(pdftex.def)             Requested size: 437.74194pt x 594.07835pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[32]) (C:\Users\Augusto\Desktop\Relatorio-IHC\source/termoConsentimento.tex
-[33]) (C:\Users\Augusto\Desktop\Relatorio-IHC\source/ferramentas.tex [34
+)
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/avaliacaoPrototipos.tex
+[35] [36 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/cicloUE.png>
+] [37
 
-]
-<resource/fluid_ui.jpg, id=321, 617.30624pt x 351.3125pt>
+] [38] [39]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40])
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/termoConsentimento.tex
+[41]
+Overfull \hbox (3.5143pt too wide) in paragraph at lines 36--37
+[]\T1/lmr/m/n/12 Eu, $[][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][]$, abaixo as-si-nado, con-cordo
+ []
+
+[42
+
+]) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/ferramentas.tex
+[43] <resource/fluid_ui.jpg, id=516, 617.30624pt x 351.3125pt>
 File: resource/fluid_ui.jpg Graphic file (type jpg)
 
 <use resource/fluid_ui.jpg>
 Package pdftex.def Info: resource/fluid_ui.jpg used on input line 13.
 (pdftex.def)             Requested size: 370.3866pt x 210.78911pt.
- [35
 
- <C:/Users/Augusto/Desktop/Relatorio-IHC/resource/fluid_ui.jpg>] <resource/bit_
-strips.jpg, id=326, 1204.5pt x 678.535pt>
+<resource/bit_strips.jpg, id=519, 1204.5pt x 678.535pt>
 File: resource/bit_strips.jpg Graphic file (type jpg)
 
 <use resource/bit_strips.jpg>
-Package pdftex.def Info: resource/bit_strips.jpg used on input line 27.
-(pdftex.def)             Requested size: 361.35278pt x 203.56207pt.
+Package pdftex.def Info: resource/bit_strips.jpg used on input line 25.
+(pdftex.def)             Requested size: 301.12427pt x 169.63333pt.
+ [44
+
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/fluid_ui.jpg>]
+<resource/just.jpg, id=527, 1233.60875pt x 770.88pt>
+File: resource/just.jpg Graphic file (type jpg)
+ <use resource/just.jpg>
+Package pdftex.def Info: resource/just.jpg used on input line 37.
+(pdftex.def)             Requested size: 308.40143pt x 192.71953pt.
 )
-(C:\Users\Augusto\Desktop\Relatorio-IHC\source/requisitos.tex [36 <C:/Users/Aug
-usto/Desktop/Relatorio-IHC/resource/bit_strips.jpg>] [37
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/requisitos.tex [45 <C:/
+Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/bit_strips.jpg> <C:/Users
+/Augusto/Documents/GitHub/Relatorio-IHC/resource/just.jpg>] [46
 
 ])
-(C:\Users\Augusto\Desktop\Relatorio-IHC\relatorio_IHC.bbl
-(C:\Users\Augusto\Desktop\Relatorio-IHC\relatorio_IHC.brf)
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.bbl
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.brf)
 \tf@brf=\write5
- [38]
+ [47]
 bibitemlist
+) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/anexos.tex [48
 
-LaTeX Warning: Empty `thebibliography' environment on input line 8.
-
-)
+])
 No file relatorio_IHC.ind.
 
 AED: lastpage setting LastPage
-[39
+[49
 
 ]
 \tf@toc=\write6
 \tf@lof=\write7
 \tf@lot=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
- (C:\Users\Augusto\Desktop\Relatorio-IHC\relatorio_IHC.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
+ (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
 Package rerunfilecheck Info: File `relatorio_IHC.brf' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 54147310D4A13FE5A333D6C17E8E53D4;689.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
  ) 
 Here is how much of TeX's memory you used:
- 12138 strings out of 493921
- 179972 string characters out of 3144870
- 295915 words of memory out of 3000000
- 14983 multiletter control sequences out of 15000+200000
+ 13703 strings out of 493921
+ 208023 string characters out of 3144870
+ 327515 words of memory out of 3000000
+ 16424 multiletter control sequences out of 15000+200000
  78571 words of font info for 53 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,14n,41p,786b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,14n,47p,809b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/
@@ -1306,9 +1799,9 @@ eX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
 s/type1/public/lm/lmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lm
 sso17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on relatorio_IHC.pdf (40 pages, 1036131 bytes).
+Output written on relatorio_IHC.pdf (50 pages, 5230767 bytes).
 PDF statistics:
- 592 PDF objects out of 1000 (max. 8388607)
- 127 named destinations out of 1000 (max. 500000)
- 515 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 854 PDF objects out of 1000 (max. 8388607)
+ 206 named destinations out of 1000 (max. 500000)
+ 720 words of extra memory for PDF output out of 10000 (max. 10000000)
 
