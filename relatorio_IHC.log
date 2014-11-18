@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.2)  15 NOV 2014 03:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.2)  18 NOV 2014 00:00
 entering extended mode
 **relatorio_IHC.tex
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.tex
@@ -1001,94 +1001,61 @@ LaTeX Warning: Label `fig03-1int' multiply defined.
 LaTeX Warning: Label `fig03-1int' multiply defined.
 
 
-LaTeX Warning: Label `alta1' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta1' multiply defined.
-
-
-LaTeX Warning: Label `alta2' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta2' multiply defined.
-
-
-LaTeX Warning: Label `alta3' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta3' multiply defined.
-
-
-LaTeX Warning: Label `alta4' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta4' multiply defined.
-
-
-LaTeX Warning: Label `fig03-1int' multiply defined.
-
-
-LaTeX Warning: Label `alta5' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta5' multiply defined.
-
-
-LaTeX Warning: Label `alta6' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta6' multiply defined.
-
-
-LaTeX Warning: Label `alta7' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta7' multiply defined.
-
-
-LaTeX Warning: Label `alta8' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta8' multiply defined.
-
-
-LaTeX Warning: Label `alta9' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta9' multiply defined.
-
-
-LaTeX Warning: Label `alta10' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta10' multiply defined.
-
-
-LaTeX Warning: Label `alta11' multiply defined.
-
-
-LaTeX Warning: Label `sub@alta11' multiply defined.
-
-
-LaTeX Warning: Label `fig03-1int' multiply defined.
-
-
-LaTeX Warning: Label `mapaInt1' multiply defined.
-
-
-LaTeX Warning: Label `sub@mapaInt1' multiply defined.
-
-
-LaTeX Warning: Label `fig03-1int' multiply defined.
-
-
 LaTeX Warning: Label `fig:logo2' multiply defined.
 
 
 LaTeX Warning: Label `tab:segundaAvaliacao_tables' multiply defined.
 
 
+LaTeX Warning: Label `tab:terceiraAvaliacao2_tables' multiply defined.
+
+
+LaTeX Warning: Label `tab:terceiraAvaliacao2_tables' multiply defined.
+
+
 LaTeX Warning: Label `sec:ferramentas_bitStrips' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tc1' multiply defined.
 
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -1211,20 +1178,23 @@ l.14
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\headers/indiceAutomatico.tex
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.toc [2
 
-])
-[3])
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 62.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 62.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 62.
+)
+[3] [4])
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\headers/listasAutomaticas.tex
-(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.lof) [4
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.lof) [5
 
 ]
-(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.lot) [5
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.lot) [6
 
 ])
-(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/abreviaturas.tex
-[6
-
-
-]) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/resumo.tex)
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/resumo.tex)
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/versionamento.tex
 [7
 
@@ -1255,6 +1225,11 @@ Underfull \hbox (badness 2096) in paragraph at lines 19--19
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\T1/lmr/m/n/12 Augusto Mo-desto e
+ []
+
+
 Underfull \hbox (badness 8019) in paragraph at lines 21--21
 []|\T1/lmr/m/n/12 Revisão das in-for-ma-ções
  []
@@ -1264,11 +1239,16 @@ Underfull \hbox (badness 5022) in paragraph at lines 25--25
 []|\T1/lmr/m/n/12 Inserção das in-for-ma-ções
  []
 
+
+Underfull \hbox (badness 5022) in paragraph at lines 27--27
+[]|\T1/lmr/m/n/12 Inserção das in-for-ma-ções
+ []
+
 ) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/cronograma.tex
 [8
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
 []|\T1/lmr/m/n/12 Augusto e
  []
 
@@ -1304,7 +1284,7 @@ Underfull \hbox (badness 3039) in paragraph at lines 1--1
 []\T1/lmss/m/n/24.88 Metas De-cor-ren-tes da Ex-pe-ri-ên-cia do
  []
 
-<resource/metas_Experiencia_Usuario.png, id=257, 603.0028pt x 464.4853pt>
+<resource/metas_Experiencia_Usuario.png, id=312, 603.0028pt x 464.4853pt>
 File: resource/metas_Experiencia_Usuario.png Graphic file (type png)
 
 <use resource/metas_Experiencia_Usuario.png>
@@ -1317,7 +1297,7 @@ ine 10.
  <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/metas_Experiencia_Us
 uario.png>] [16
 
-] <resource/story_board.png, id=271, 718.685pt x 1059.96pt>
+] <resource/story_board.png, id=326, 718.685pt x 1059.96pt>
 File: resource/story_board.png Graphic file (type png)
 
 <use resource/story_board.png>
@@ -1331,49 +1311,49 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [17 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/story_board.png (
 PNG copy)>] [18
 
-] <resource/papel1.png, id=284, 220.57407pt x 294.34969pt>
+] <resource/papel1.png, id=339, 220.57407pt x 294.34969pt>
 File: resource/papel1.png Graphic file (type png)
 
 <use resource/papel1.png>
 Package pdftex.def Info: resource/papel1.png used on input line 22.
 (pdftex.def)             Requested size: 142.27086pt x 199.17151pt.
 
-<resource/papel2.png, id=285, 211.54031pt x 253.69781pt>
+<resource/papel2.png, id=340, 211.54031pt x 253.69781pt>
 File: resource/papel2.png Graphic file (type png)
 
 <use resource/papel2.png>
 Package pdftex.def Info: resource/papel2.png used on input line 27.
 (pdftex.def)             Requested size: 142.26707pt x 199.17644pt.
 
-<resource/papel3.png, id=286, 200.24812pt x 278.54062pt>
+<resource/papel3.png, id=341, 200.24812pt x 278.54062pt>
 File: resource/papel3.png Graphic file (type png)
 
 <use resource/papel3.png>
 Package pdftex.def Info: resource/papel3.png used on input line 32.
 (pdftex.def)             Requested size: 142.27188pt x 199.17203pt.
 
-<resource/papel4.png, id=287, 217.5628pt x 293.59688pt>
+<resource/papel4.png, id=342, 217.5628pt x 293.59688pt>
 File: resource/papel4.png Graphic file (type png)
 
 <use resource/papel4.png>
 Package pdftex.def Info: resource/papel4.png used on input line 37.
 (pdftex.def)             Requested size: 142.27063pt x 199.16835pt.
 
-<resource/papel5.png, id=288, 207.02344pt x 306.39468pt>
+<resource/papel5.png, id=343, 207.02344pt x 306.39468pt>
 File: resource/papel5.png Graphic file (type png)
 
 <use resource/papel5.png>
 Package pdftex.def Info: resource/papel5.png used on input line 42.
 (pdftex.def)             Requested size: 142.26823pt x 199.16821pt.
 
-<resource/papel7.png, id=289, 207.02344pt x 280.04625pt>
+<resource/papel7.png, id=344, 207.02344pt x 280.04625pt>
 File: resource/papel7.png Graphic file (type png)
 
 <use resource/papel7.png>
 Package pdftex.def Info: resource/papel7.png used on input line 47.
 (pdftex.def)             Requested size: 142.26823pt x 199.17607pt.
 
-<resource/papel8.png, id=290, 216.05719pt x 187.45032pt>
+<resource/papel8.png, id=345, 216.05719pt x 187.45032pt>
 File: resource/papel8.png Graphic file (type png)
 
 <use resource/papel8.png>
@@ -1393,63 +1373,63 @@ esource/papel8.png>] [20
 
 
 ]
-<resource/baixa1.png, id=306, 283.0575pt x 456.95718pt>
+<resource/baixa1.png, id=361, 283.0575pt x 456.95718pt>
 File: resource/baixa1.png Graphic file (type png)
 
 <use resource/baixa1.png>
 Package pdftex.def Info: resource/baixa1.png used on input line 76.
 (pdftex.def)             Requested size: 142.26695pt x 199.16522pt.
 
-<resource/baixa2.png, id=307, 283.0575pt x 456.95718pt>
+<resource/baixa2.png, id=362, 283.0575pt x 456.95718pt>
 File: resource/baixa2.png Graphic file (type png)
 
 <use resource/baixa2.png>
 Package pdftex.def Info: resource/baixa2.png used on input line 81.
 (pdftex.def)             Requested size: 142.26695pt x 199.16522pt.
 
-<resource/baixa3.png, id=308, 283.0575pt x 456.95718pt>
+<resource/baixa3.png, id=363, 283.0575pt x 456.95718pt>
 File: resource/baixa3.png Graphic file (type png)
 
 <use resource/baixa3.png>
 Package pdftex.def Info: resource/baixa3.png used on input line 86.
 (pdftex.def)             Requested size: 142.26695pt x 199.16522pt.
 
-<resource/baixa4.png, id=309, 283.0575pt x 458.46281pt>
+<resource/baixa4.png, id=364, 283.0575pt x 458.46281pt>
 File: resource/baixa4.png Graphic file (type png)
 
 <use resource/baixa4.png>
 Package pdftex.def Info: resource/baixa4.png used on input line 91.
 (pdftex.def)             Requested size: 142.26695pt x 199.17087pt.
 
-<resource/baixa5.png, id=310, 283.0575pt x 458.46281pt>
+<resource/baixa5.png, id=365, 283.0575pt x 458.46281pt>
 File: resource/baixa5.png Graphic file (type png)
 
 <use resource/baixa5.png>
 Package pdftex.def Info: resource/baixa5.png used on input line 96.
 (pdftex.def)             Requested size: 122.34724pt x 199.17087pt.
 
-<resource/baixa6.png, id=311, 277.78781pt x 458.46281pt>
+<resource/baixa6.png, id=366, 277.78781pt x 458.46281pt>
 File: resource/baixa6.png Graphic file (type png)
 
 <use resource/baixa6.png>
 Package pdftex.def Info: resource/baixa6.png used on input line 101.
 (pdftex.def)             Requested size: 122.34569pt x 199.17087pt.
 
-<resource/baixa7.png, id=312, 277.78781pt x 458.46281pt>
+<resource/baixa7.png, id=367, 277.78781pt x 458.46281pt>
 File: resource/baixa7.png Graphic file (type png)
 
 <use resource/baixa7.png>
 Package pdftex.def Info: resource/baixa7.png used on input line 106.
 (pdftex.def)             Requested size: 122.34569pt x 199.17087pt.
 
-<resource/baixa8.png, id=313, 277.78781pt x 459.96844pt>
+<resource/baixa8.png, id=368, 277.78781pt x 459.96844pt>
 File: resource/baixa8.png Graphic file (type png)
 
 <use resource/baixa8.png>
 Package pdftex.def Info: resource/baixa8.png used on input line 111.
 (pdftex.def)             Requested size: 122.34569pt x 199.17224pt.
 
-<resource/baixa9.png, id=314, 274.77657pt x 454.69875pt>
+<resource/baixa9.png, id=369, 274.77657pt x 454.69875pt>
 File: resource/baixa9.png Graphic file (type png)
 
 <use resource/baixa9.png>
@@ -1470,77 +1450,77 @@ aixa8.png> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/baixa9.png
 >] [22
 
 
-] <resource/parteI.png, id=335, 467.7475pt x 748.7975pt>
+] <resource/parteI.png, id=390, 467.7475pt x 748.7975pt>
 File: resource/parteI.png Graphic file (type png)
 
 <use resource/parteI.png>
 Package pdftex.def Info: resource/parteI.png used on input line 144.
 (pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
 
-<resource/parteII.png, id=336, 467.7475pt x 748.7975pt>
+<resource/parteII.png, id=391, 467.7475pt x 748.7975pt>
 File: resource/parteII.png Graphic file (type png)
 
 <use resource/parteII.png>
 Package pdftex.def Info: resource/parteII.png used on input line 149.
 (pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
 
-<resource/parteIII.png, id=337, 467.7475pt x 748.7975pt>
+<resource/parteIII.png, id=392, 467.7475pt x 748.7975pt>
 File: resource/parteIII.png Graphic file (type png)
 
 <use resource/parteIII.png>
 Package pdftex.def Info: resource/parteIII.png used on input line 154.
 (pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
 
-<resource/parteIV.png, id=338, 467.7475pt x 748.7975pt>
+<resource/parteIV.png, id=393, 467.7475pt x 748.7975pt>
 File: resource/parteIV.png Graphic file (type png)
 
 <use resource/parteIV.png>
 Package pdftex.def Info: resource/parteIV.png used on input line 159.
 (pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
 
-<resource/parteV.png, id=339, 467.7475pt x 748.7975pt>
+<resource/parteV.png, id=394, 467.7475pt x 748.7975pt>
 File: resource/parteV.png Graphic file (type png)
 
 <use resource/parteV.png>
 Package pdftex.def Info: resource/parteV.png used on input line 169.
 (pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
 
-<resource/parteVI.png, id=340, 467.7475pt x 748.7975pt>
+<resource/parteVI.png, id=395, 467.7475pt x 748.7975pt>
 File: resource/parteVI.png Graphic file (type png)
 
 <use resource/parteVI.png>
 Package pdftex.def Info: resource/parteVI.png used on input line 174.
 (pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
 
-<resource/parteVII.png, id=341, 467.7475pt x 748.7975pt>
+<resource/parteVII.png, id=396, 467.7475pt x 748.7975pt>
 File: resource/parteVII.png Graphic file (type png)
 
 <use resource/parteVII.png>
 Package pdftex.def Info: resource/parteVII.png used on input line 179.
 (pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
 
-<resource/parteVIII.png, id=342, 350.81062pt x 561.59813pt>
+<resource/parteVIII.png, id=397, 350.81062pt x 561.59813pt>
 File: resource/parteVIII.png Graphic file (type png)
 
 <use resource/parteVIII.png>
 Package pdftex.def Info: resource/parteVIII.png used on input line 184.
 (pdftex.def)             Requested size: 142.26486pt x 199.16734pt.
 
-<resource/parteIX.png, id=344, 467.7475pt x 748.7975pt>
+<resource/parteIX.png, id=399, 467.7475pt x 748.7975pt>
 File: resource/parteIX.png Graphic file (type png)
 
 <use resource/parteIX.png>
 Package pdftex.def Info: resource/parteIX.png used on input line 189.
 (pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
 
-<resource/parteX.png, id=345, 467.7475pt x 748.7975pt>
+<resource/parteX.png, id=400, 467.7475pt x 748.7975pt>
 File: resource/parteX.png Graphic file (type png)
 
 <use resource/parteX.png>
 Package pdftex.def Info: resource/parteX.png used on input line 194.
 (pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
 
-<resource/parteXI.png, id=346, 467.7475pt x 748.7975pt>
+<resource/parteXI.png, id=401, 467.7475pt x 748.7975pt>
 File: resource/parteXI.png Graphic file (type png)
 
 <use resource/parteXI.png>
@@ -1564,7 +1544,7 @@ ource/parteVIII.png> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/
 parteIX.png (PNG copy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resour
 ce/parteX.png (PNG copy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/reso
 urce/parteXI.png (PNG copy)>]
-<resource/mapa.jpg, id=368, 367.3725pt x 1104.125pt>
+<resource/mapa.jpg, id=423, 367.3725pt x 1104.125pt>
 File: resource/mapa.jpg Graphic file (type jpg)
  <use resource/mapa.jpg>
 Package pdftex.def Info: resource/mapa.jpg used on input line 210.
@@ -1573,107 +1553,71 @@ Package pdftex.def Info: resource/mapa.jpg used on input line 210.
 [25
 
  <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/mapa.jpg (PNG copy)>
-]
-File: resource/parteI.png Graphic file (type png)
- <use resource/parteI.png>
-Package pdftex.def Info: resource/parteI.png used on input line 226.
-(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
-File: resource/parteII.png Graphic file (type png)
- <use resource/parteII.png>
-Package pdftex.def Info: resource/parteII.png used on input line 231.
-(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
-File: resource/parteIII.png Graphic file (type png)
+] <resource/parteIVn.png, id=429, 467.7475pt x 748.7975pt>
+File: resource/parteIVn.png Graphic file (type png)
 
-<use resource/parteIII.png>
-Package pdftex.def Info: resource/parteIII.png used on input line 236.
-(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
-File: resource/parteIV.png Graphic file (type png)
- <use resource/parteIV.png>
-Package pdftex.def Info: resource/parteIV.png used on input line 241.
-(pdftex.def)             Requested size: 142.26665pt x 227.6231pt.
-File: resource/parteV.png Graphic file (type png)
+<use resource/parteIVn.png>
+Package pdftex.def Info: resource/parteIVn.png used on input line 228.
+(pdftex.def)             Requested size: 142.26665pt x 216.24307pt.
 
-<use resource/parteV.png>
-Package pdftex.def Info: resource/parteV.png used on input line 251.
-(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
-File: resource/parteVI.png Graphic file (type png)
- <use resource/parteVI.png>
-Package pdftex.def Info: resource/parteVI.png used on input line 256.
-(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
-File: resource/parteVII.png Graphic file (type png)
+<resource/parteVn.png, id=430, 467.7475pt x 748.7975pt>
+File: resource/parteVn.png Graphic file (type png)
 
-<use resource/parteVII.png>
-Package pdftex.def Info: resource/parteVII.png used on input line 261.
-(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
-File: resource/parteVIII.png Graphic file (type png)
- <use resource/parteVIII.png>
-Package pdftex.def Info: resource/parteVIII.png used on input line 266.
-(pdftex.def)             Requested size: 142.26486pt x 199.16734pt.
-File: resource/parteIX.png Graphic file (type png)
+<use resource/parteVn.png>
+Package pdftex.def Info: resource/parteVn.png used on input line 233.
+(pdftex.def)             Requested size: 142.26665pt x 216.24307pt.
 
-<use resource/parteIX.png>
-Package pdftex.def Info: resource/parteIX.png used on input line 271.
-(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
-File: resource/parteX.png Graphic file (type png)
- <use resource/parteX.png>
-Package pdftex.def Info: resource/parteX.png used on input line 276.
-(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
-File: resource/parteXI.png Graphic file (type png)
+<resource/parteVIn.png, id=431, 467.7475pt x 748.7975pt>
+File: resource/parteVIn.png Graphic file (type png)
 
-<use resource/parteXI.png>
-Package pdftex.def Info: resource/parteXI.png used on input line 281.
-(pdftex.def)             Requested size: 142.26665pt x 199.17307pt.
+<use resource/parteVIn.png>
+Package pdftex.def Info: resource/parteVIn.png used on input line 238.
+(pdftex.def)             Requested size: 142.26665pt x 216.24307pt.
 
+<resource/parteVIIIn.png, id=432, 350.81062pt x 561.59813pt>
+File: resource/parteVIIIn.png Graphic file (type png)
 
-LaTeX Warning: Float too large for page by 20.84612pt on input line 284.
+<use resource/parteVIIIn.png>
+Package pdftex.def Info: resource/parteVIIIn.png used on input line 243.
+(pdftex.def)             Requested size: 142.26486pt x 216.23737pt.
+ [26
 
-[26
-
-] [27]
-File: resource/mapa.jpg Graphic file (type jpg)
- <use resource/mapa.jpg>
-Package pdftex.def Info: resource/mapa.jpg used on input line 292.
-(pdftex.def)             Requested size: 284.54816pt x 625.98828pt.
-)
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/parteIVn.png (PNG co
+py)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/parteVn.png (PNG
+ copy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/parteVIn.png 
+(PNG copy)> <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/parteVIII
+n.png>])
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/questionarios.tex
-[28
-
-]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 16.
- <resource/logo1.png, id=398, 218.8175pt x 58.2175pt>
-File: resource/logo1.png Graphic file (type png)
 
-<use resource/logo1.png>
+<resource/logo1.png, id=442, 218.8175pt x 58.2175pt>
+File: resource/logo1.png Graphic file (type png)
+ <use resource/logo1.png>
 Package pdftex.def Info: resource/logo1.png used on input line 21.
 (pdftex.def)             Requested size: 109.40848pt x 29.10867pt.
- [29
 
- <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/logo1.png>] <resourc
-e/logo2.png, id=410, 590.205pt x 171.64125pt>
+[27
+
+
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/logo1.png>]
+<resource/logo2.png, id=454, 590.205pt x 171.64125pt>
 File: resource/logo2.png Graphic file (type png)
-
-<use resource/logo2.png>
+ <use resource/logo2.png>
 Package pdftex.def Info: resource/logo2.png used on input line 68.
 (pdftex.def)             Requested size: 236.0778pt x 68.65527pt.
- [30 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/logo2.png>] <res
-ource/logo3.png, id=424, 141.52875pt x 81.30376pt>
+
+[28 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/logo2.png>]
+<resource/logo3.png, id=467, 141.52875pt x 81.30376pt>
 File: resource/logo3.png Graphic file (type png)
 
 <use resource/logo3.png>
 Package pdftex.def Info: resource/logo3.png used on input line 101.
 (pdftex.def)             Requested size: 84.9179pt x 48.78261pt.
- [31 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/logo3.png>]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 146.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 146.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 146.
-)
+ [29 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/logo3.png>])
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/ciclosDeVida.tex
-[32]
-<resource/ciclo_De_Vida_Simplesciclo_De_Vida_Simples.png, id=443, 368.1253pt x 
+[30]
+<resource/ciclo_De_Vida_Simplesciclo_De_Vida_Simples.png, id=487, 368.1253pt x 
 293.59688pt>
 File: resource/ciclo_De_Vida_Simplesciclo_De_Vida_Simples.png Graphic file (typ
 e png)
@@ -1685,11 +1629,11 @@ g used on input line 23.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[33
+[31
 
-] [34 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/ciclo_De_Vida_S
+] [32 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/ciclo_De_Vida_S
 implesciclo_De_Vida_Simples.png>]
-<resource/cicloUE.png, id=458, 1250.6725pt x 1697.34125pt>
+<resource/cicloUE.png, id=502, 1250.6725pt x 1697.34125pt>
 File: resource/cicloUE.png Graphic file (type png)
 
 <use resource/cicloUE.png>
@@ -1701,107 +1645,353 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/avaliacaoPrototipos.tex
-[35] [36 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/cicloUE.png>
-] [37
+[33] [34 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/cicloUE.png>
+] [35
 
-] [38] [39]
+] [36] [37] [38] [39]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 226.
+ [40]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[41] [42]
+Overfull \hbox (7.43973pt too wide) in paragraph at lines 333--377
+ [][] 
+ []
+
+[43
+
+]
+Overfull \hbox (41.24802pt too wide) in paragraph at lines 403--404
+[]\T1/lmr/m/n/12 Para a se-gunda in-te-ra-ção, não houve al-te-ra-ção na es-tru
+-tura do ques-ti-o-ná-rio, permanecendo-
+ []
+
+[44
+
+] [45]
+Overfull \hbox (7.43973pt too wide) in paragraph at lines 494--538
+ [][] 
+ []
+
+[46
+
+]) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/emag.tex [47
+
+
+]
+<resource/emag1.png, id=628, 1200.485pt x 395.4775pt>
+File: resource/emag1.png Graphic file (type png)
+ <use resource/emag1.png>
+Package pdftex.def Info: resource/emag1.png used on input line 33.
+(pdftex.def)             Requested size: 720.29657pt x 237.28833pt.
+
+Overfull \hbox (12.29657pt too wide) in paragraph at lines 33--34
+ [][] 
+ []
+
+<resource/emag2.png, id=629, 1200.485pt x 487.8225pt>
+File: resource/emag2.png Graphic file (type png)
+ <use resource/emag2.png>
+Package pdftex.def Info: resource/emag2.png used on input line 40.
+(pdftex.def)             Requested size: 720.29657pt x 292.69576pt.
+
+Overfull \hbox (12.29657pt too wide) in paragraph at lines 40--41
+ [][] 
+ []
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[40])
+<resource/emag3.png, id=630, 1200.485pt x 511.9125pt>
+File: resource/emag3.png Graphic file (type png)
+ <use resource/emag3.png>
+Package pdftex.def Info: resource/emag3.png used on input line 47.
+(pdftex.def)             Requested size: 720.29657pt x 307.14987pt.
+
+Overfull \hbox (12.29657pt too wide) in paragraph at lines 47--48
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/emag4.jpg, id=631, 328.22626pt x 200.75pt>
+File: resource/emag4.jpg Graphic file (type jpg)
+ <use resource/emag4.jpg>
+Package pdftex.def Info: resource/emag4.jpg used on input line 54.
+(pdftex.def)             Requested size: 262.58136pt x 160.6002pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[48
+
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/emag1.png (PNG copy)
+>] [49 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/emag2.png (PNG
+ copy)>] [50 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/emag3.pn
+g (PNG copy)>] [51 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/em
+ag4.jpg (PNG copy)>] <resource/emag5.png, id=649, 1007.26312pt x 409.53pt>
+File: resource/emag5.png Graphic file (type png)
+
+<use resource/emag5.png>
+Package pdftex.def Info: resource/emag5.png used on input line 67.
+(pdftex.def)             Requested size: 604.36253pt x 245.7199pt.
+ [52
+
+
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/emag5.png>])
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/termoConsentimento.tex
-[41]
 Overfull \hbox (3.5143pt too wide) in paragraph at lines 36--37
 []\T1/lmr/m/n/12 Eu, $[][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][]$, abaixo as-si-nado, con-cordo
  []
 
-[42
+[53
+
 
 ]) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/ferramentas.tex
-[43] <resource/fluid_ui.jpg, id=516, 617.30624pt x 351.3125pt>
+[54] <resource/fluid_ui.jpg, id=665, 617.30624pt x 351.3125pt>
 File: resource/fluid_ui.jpg Graphic file (type jpg)
 
 <use resource/fluid_ui.jpg>
 Package pdftex.def Info: resource/fluid_ui.jpg used on input line 13.
 (pdftex.def)             Requested size: 370.3866pt x 210.78911pt.
 
-<resource/bit_strips.jpg, id=519, 1204.5pt x 678.535pt>
+<resource/bit_strips.jpg, id=668, 1204.5pt x 678.535pt>
 File: resource/bit_strips.jpg Graphic file (type jpg)
 
 <use resource/bit_strips.jpg>
 Package pdftex.def Info: resource/bit_strips.jpg used on input line 25.
 (pdftex.def)             Requested size: 301.12427pt x 169.63333pt.
- [44
+ [55
 
  <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/fluid_ui.jpg>]
-<resource/just.jpg, id=527, 1233.60875pt x 770.88pt>
+<resource/just.jpg, id=676, 1233.60875pt x 770.88pt>
 File: resource/just.jpg Graphic file (type jpg)
  <use resource/just.jpg>
 Package pdftex.def Info: resource/just.jpg used on input line 37.
 (pdftex.def)             Requested size: 308.40143pt x 192.71953pt.
 )
-(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/requisitos.tex [45 <C:/
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/requisitos.tex [56 <C:/
 Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/bit_strips.jpg> <C:/Users
-/Augusto/Documents/GitHub/Relatorio-IHC/resource/just.jpg>] [46
+/Augusto/Documents/GitHub/Relatorio-IHC/resource/just.jpg>] [57
 
 ])
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.bbl
 (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.brf)
 \tf@brf=\write5
- [47]
+ [58]
 bibitemlist
-) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/anexos.tex [48
+) (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\source/anexos.tex [59
 
-])
+]
+<resource/tc1.jpg, id=721, 1335.99126pt x 2122.93124pt>
+File: resource/tc1.jpg Graphic file (type jpg)
+ <use resource/tc1.jpg>
+Package pdftex.def Info: resource/tc1.jpg used on input line 6.
+(pdftex.def)             Requested size: 374.075pt x 594.4167pt.
+
+[60
+
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc1.jpg>]
+<resource/tc2.jpg, id=727, 1324.95pt x 2155.05125pt>
+File: resource/tc2.jpg Graphic file (type jpg)
+ <use resource/tc2.jpg>
+Package pdftex.def Info: resource/tc2.jpg used on input line 14.
+(pdftex.def)             Requested size: 397.48807pt x 646.52037pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc3.jpg, id=728, 1332.98pt x 2138.99126pt>
+File: resource/tc3.jpg Graphic file (type jpg)
+ <use resource/tc3.jpg>
+Package pdftex.def Info: resource/tc3.jpg used on input line 22.
+(pdftex.def)             Requested size: 399.89708pt x 641.70235pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc4.jpg, id=729, 1389.19pt x 2175.12625pt>
+File: resource/tc4.jpg Graphic file (type jpg)
+ <use resource/tc4.jpg>
+Package pdftex.def Info: resource/tc4.jpg used on input line 30.
+(pdftex.def)             Requested size: 416.76022pt x 652.54292pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc5.jpg, id=730, 1332.98pt x 2152.04pt>
+File: resource/tc5.jpg Graphic file (type jpg)
+ <use resource/tc5.jpg>
+Package pdftex.def Info: resource/tc5.jpg used on input line 38.
+(pdftex.def)             Requested size: 399.89708pt x 645.61699pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc6.jpg, id=731, 1515.6625pt x 2324.685pt>
+File: resource/tc6.jpg Graphic file (type jpg)
+ <use resource/tc6.jpg>
+Package pdftex.def Info: resource/tc6.jpg used on input line 46.
+(pdftex.def)             Requested size: 454.70226pt x 697.41089pt.
+
+
+LaTeX Warning: Float too large for page by 13.91087pt on input line 49.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc7.jpg, id=732, 1453.43pt x 2211.26125pt>
+File: resource/tc7.jpg Graphic file (type jpg)
+ <use resource/tc7.jpg>
+Package pdftex.def Info: resource/tc7.jpg used on input line 54.
+(pdftex.def)             Requested size: 436.03236pt x 663.3835pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc8.jpg, id=733, 1420.30624pt x 2183.15625pt>
+File: resource/tc8.jpg Graphic file (type jpg)
+ <use resource/tc8.jpg>
+Package pdftex.def Info: resource/tc8.jpg used on input line 62.
+(pdftex.def)             Requested size: 426.09515pt x 654.95193pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc9.jpg, id=734, 1414.28375pt x 2178.1375pt>
+File: resource/tc9.jpg Graphic file (type jpg)
+ <use resource/tc9.jpg>
+Package pdftex.def Info: resource/tc9.jpg used on input line 70.
+(pdftex.def)             Requested size: 424.2884pt x 653.4463pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc10.jpg, id=735, 1400.23125pt x 2151.03625pt>
+File: resource/tc10.jpg Graphic file (type jpg)
+
+<use resource/tc10.jpg>
+Package pdftex.def Info: resource/tc10.jpg used on input line 78.
+(pdftex.def)             Requested size: 420.07262pt x 645.31587pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc11.jpg, id=736, 1434.35875pt x 2182.1525pt>
+File: resource/tc11.jpg Graphic file (type jpg)
+
+<use resource/tc11.jpg>
+Package pdftex.def Info: resource/tc11.jpg used on input line 86.
+(pdftex.def)             Requested size: 430.31094pt x 654.6508pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc12.jpg, id=737, 502.2765pt x 782.32275pt>
+File: resource/tc12.jpg Graphic file (type jpg)
+ <use resource/tc12.jpg>
+Package pdftex.def Info: resource/tc12.jpg used on input line 94.
+(pdftex.def)             Requested size: 401.82175pt x 625.85904pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc13.jpg, id=738, 1400.23125pt x 2147.02126pt>
+File: resource/tc13.jpg Graphic file (type jpg)
+
+<use resource/tc13.jpg>
+Package pdftex.def Info: resource/tc13.jpg used on input line 102.
+(pdftex.def)             Requested size: 420.07262pt x 644.11136pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc14.jpg, id=739, 1414.28375pt x 2163.08125pt>
+File: resource/tc14.jpg Graphic file (type jpg)
+
+<use resource/tc14.jpg>
+Package pdftex.def Info: resource/tc14.jpg used on input line 110.
+(pdftex.def)             Requested size: 424.2884pt x 648.9294pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resource/tc15.jpg, id=740, 1405.25pt x 2173.11874pt>
+File: resource/tc15.jpg Graphic file (type jpg)
+ <use resource/tc15.jpg>
+Package pdftex.def Info: resource/tc15.jpg used on input line 118.
+(pdftex.def)             Requested size: 421.57826pt x 651.94066pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
 No file relatorio_IHC.ind.
 
 AED: lastpage setting LastPage
-[49
-
-]
+[61 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc2.jpg>]
+[62 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc3.jpg>]
+[63 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc4.jpg>]
+[64 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc5.jpg>]
+[65 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc6.jpg>]
+[66 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc7.jpg>]
+[67 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc8.jpg>]
+[68 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc9.jpg>]
+[69 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc10.jpg>]
+[70 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc11.jpg>]
+[71 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc12.jpg>]
+[72 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc13.jpg>]
+[73 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc14.jpg>]
+[74 <C:/Users/Augusto/Documents/GitHub/Relatorio-IHC/resource/tc15.jpg>]
 \tf@toc=\write6
 \tf@lof=\write7
 \tf@lot=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
- (C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
+
+(C:\Users\Augusto\Documents\GitHub\Relatorio-IHC\relatorio_IHC.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
 Package rerunfilecheck Info: File `relatorio_IHC.brf' has not changed.
-(rerunfilecheck)             Checksum: 54147310D4A13FE5A333D6C17E8E53D4;689.
+(rerunfilecheck)             Checksum: D2DEB986AD3AF68BEEAF077EE5251946;688.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 13703 strings out of 493921
- 208023 string characters out of 3144870
- 327515 words of memory out of 3000000
- 16424 multiletter control sequences out of 15000+200000
- 78571 words of font info for 53 fonts, out of 3000000 for 9000
+ 13957 strings out of 493921
+ 211894 string characters out of 3144870
+ 332002 words of memory out of 3000000
+ 16561 multiletter control sequences out of 15000+200000
+ 90492 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  47i,14n,47p,809b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-public/lm/lmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lm
-r7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/public/lm/lmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
-lic/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lm
-sso17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on relatorio_IHC.pdf (50 pages, 5230767 bytes).
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x86)/
+MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/MiKTeX 2.9/font
+s/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi
+12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmri10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+lm/lmri12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/lm/lmsso17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmsy10.pfb>
+Output written on relatorio_IHC.pdf (75 pages, 17179448 bytes).
 PDF statistics:
- 854 PDF objects out of 1000 (max. 8388607)
- 206 named destinations out of 1000 (max. 500000)
- 720 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1121 PDF objects out of 1200 (max. 8388607)
+ 290 named destinations out of 1000 (max. 500000)
+ 880 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,7 +1,7 @@
 \select@language {brazil}
-\contentsline {figure}{\numberline {1}{\ignorespaces Metas Decorrentes da Experi\IeC {\^e}ncia do Usu\IeC {\'a}rio}}{15}{figure.caption.6}
-\contentsline {figure}{\numberline {2}{\ignorespaces Story Board para aplica\IeC {\c c}\IeC {\~a}o}}{17}{figure.caption.7}
-\contentsline {figure}{\numberline {3}{\ignorespaces Prot\IeC {\'o}tipos de Papel.\relax }}{19}{figure.caption.8}
+\contentsline {figure}{\numberline {1}{\ignorespaces Metas Decorrentes da Experi\IeC {\^e}ncia do Usu\IeC {\'a}rio}}{15}{figure.caption.4}
+\contentsline {figure}{\numberline {2}{\ignorespaces Story Board para aplica\IeC {\c c}\IeC {\~a}o}}{17}{figure.caption.5}
+\contentsline {figure}{\numberline {3}{\ignorespaces Prot\IeC {\'o}tipos de Papel.\relax }}{19}{figure.caption.6}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela 1}}}{19}{subfigure.3.1}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Tela 2}}}{19}{subfigure.3.2}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Tela 3}}}{19}{subfigure.3.3}
@@ -9,7 +9,7 @@
 \contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Tela 5}}}{19}{subfigure.3.5}
 \contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Tela 6}}}{19}{subfigure.3.6}
 \contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Tela 7}}}{19}{subfigure.3.7}
-\contentsline {figure}{\numberline {4}{\ignorespaces Prot\IeC {\'o}tipos de Baixa Fidelidade.\relax }}{21}{figure.caption.9}
+\contentsline {figure}{\numberline {4}{\ignorespaces Prot\IeC {\'o}tipos de Baixa Fidelidade.\relax }}{21}{figure.caption.7}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela 1}}}{21}{subfigure.4.1}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Tela 2}}}{21}{subfigure.4.2}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Tela 3}}}{21}{subfigure.4.3}
@@ -19,12 +19,12 @@
 \contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Tela 7}}}{21}{subfigure.4.7}
 \contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Tela 8}}}{21}{subfigure.4.8}
 \contentsline {subfigure}{\numberline {(i)}{\ignorespaces {Tela 9}}}{21}{subfigure.4.9}
-\contentsline {figure}{\numberline {5}{\ignorespaces Prot\IeC {\'o}tipos de Alta Fidelidade - Parte I}}{23}{figure.caption.10}
+\contentsline {figure}{\numberline {5}{\ignorespaces Prot\IeC {\'o}tipos de Alta Fidelidade - Parte I}}{23}{figure.caption.8}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela 1}}}{23}{subfigure.5.1}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Tela 2}}}{23}{subfigure.5.2}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Tela 3}}}{23}{subfigure.5.3}
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Tela 4}}}{23}{subfigure.5.4}
-\contentsline {figure}{\numberline {6}{\ignorespaces Prot\IeC {\'o}tipos de Alta Fidelidade - Parte II}}{24}{figure.caption.11}
+\contentsline {figure}{\numberline {6}{\ignorespaces Prot\IeC {\'o}tipos de Alta Fidelidade - Parte II}}{24}{figure.caption.9}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela 5}}}{24}{subfigure.6.1}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Tela 6}}}{24}{subfigure.6.2}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Tela 7}}}{24}{subfigure.6.3}
@@ -32,28 +32,38 @@
 \contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Tela 9}}}{24}{subfigure.6.5}
 \contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Tela 10}}}{24}{subfigure.6.6}
 \contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Tela 11}}}{24}{subfigure.6.7}
-\contentsline {figure}{\numberline {7}{\ignorespaces Prot\IeC {\'o}tipos de Alta Fidelidade - Parte III}}{25}{figure.caption.12}
+\contentsline {figure}{\numberline {7}{\ignorespaces Prot\IeC {\'o}tipos de Alta Fidelidade - Parte III}}{25}{figure.caption.10}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Mapa de Navega\IeC {\c c}\IeC {\~a}o}}}{25}{subfigure.7.1}
-\contentsline {figure}{\numberline {8}{\ignorespaces Prot\IeC {\'o}tipos de Alta Fidelidade - Parte I}}{26}{figure.caption.13}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela 1}}}{26}{subfigure.8.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Tela 2}}}{26}{subfigure.8.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Tela 3}}}{26}{subfigure.8.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Tela 4}}}{26}{subfigure.8.4}
-\contentsline {figure}{\numberline {9}{\ignorespaces Prot\IeC {\'o}tipos de Alta Fidelidade - Parte II}}{27}{figure.caption.14}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela 5}}}{27}{subfigure.9.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Tela 6}}}{27}{subfigure.9.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Tela 7}}}{27}{subfigure.9.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Tela 8}}}{27}{subfigure.9.4}
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Tela 9}}}{27}{subfigure.9.5}
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Tela 10}}}{27}{subfigure.9.6}
-\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Tela 11}}}{27}{subfigure.9.7}
-\contentsline {figure}{\numberline {10}{\ignorespaces Prot\IeC {\'o}tipos de Alta Fidelidade - Parte III}}{28}{figure.caption.15}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Mapa de Navega\IeC {\c c}\IeC {\~a}o}}}{28}{subfigure.10.1}
-\contentsline {figure}{\numberline {11}{\ignorespaces Logo QUIS}}{29}{figure.caption.16}
-\contentsline {figure}{\numberline {12}{\ignorespaces Logo SUMI}}{30}{figure.caption.17}
-\contentsline {figure}{\numberline {13}{\ignorespaces Logo ErgoList}}{31}{figure.caption.18}
-\contentsline {figure}{\numberline {14}{\ignorespaces Modelo Ciclo de Vida Simples}}{34}{figure.caption.20}
-\contentsline {figure}{\numberline {15}{\ignorespaces Modelo do Ciclo Engenharia de Usabilidade}}{36}{figure.caption.21}
-\contentsline {figure}{\numberline {16}{\ignorespaces Fluid UI}}{44}{figure.caption.25}
-\contentsline {figure}{\numberline {17}{\ignorespaces BitStrips}}{45}{figure.caption.26}
-\contentsline {figure}{\numberline {18}{\ignorespaces Justinmind}}{45}{figure.caption.27}
+\contentsline {figure}{\numberline {8}{\ignorespaces Prot\IeC {\'o}tipos de Alta Fidelidade - Telas Alteradas}}{26}{figure.caption.11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela 4}}}{26}{subfigure.8.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Tela 5}}}{26}{subfigure.8.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Tela 6}}}{26}{subfigure.8.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Tela 8}}}{26}{subfigure.8.4}
+\contentsline {figure}{\numberline {9}{\ignorespaces Logo QUIS}}{27}{figure.caption.12}
+\contentsline {figure}{\numberline {10}{\ignorespaces Logo SUMI}}{28}{figure.caption.13}
+\contentsline {figure}{\numberline {11}{\ignorespaces Logo ErgoList}}{29}{figure.caption.14}
+\contentsline {figure}{\numberline {12}{\ignorespaces Modelo Ciclo de Vida Simples}}{32}{figure.caption.16}
+\contentsline {figure}{\numberline {13}{\ignorespaces Modelo do Ciclo Engenharia de Usabilidade}}{34}{figure.caption.17}
+\contentsline {figure}{\numberline {14}{\ignorespaces P\IeC {\'a}gina Home do Prot\IeC {\'o}tipo Web}}{48}{figure.caption.25}
+\contentsline {figure}{\numberline {15}{\ignorespaces P\IeC {\'a}gina de Consultas Agendadas do Prot\IeC {\'o}tipo Web}}{49}{figure.caption.26}
+\contentsline {figure}{\numberline {16}{\ignorespaces P\IeC {\'a}gina de Cadastrar novo Atendimento do Prot\IeC {\'o}tipo Web}}{50}{figure.caption.27}
+\contentsline {figure}{\numberline {17}{\ignorespaces Mapa das P\IeC {\'a}ginas do Prot\IeC {\'o}tipo Web}}{51}{figure.caption.28}
+\contentsline {figure}{\numberline {18}{\ignorespaces Reconhecimento de C\IeC {\'o}digo - eScanner}}{52}{figure.caption.29}
+\contentsline {figure}{\numberline {19}{\ignorespaces Fluid UI}}{55}{figure.caption.30}
+\contentsline {figure}{\numberline {20}{\ignorespaces BitStrips}}{56}{figure.caption.31}
+\contentsline {figure}{\numberline {21}{\ignorespaces Justinmind}}{56}{figure.caption.32}
+\contentsline {figure}{\numberline {22}{\ignorespaces 1\IeC {\textordmasculine } Termo de Consentimento - 1\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o}}{60}{figure.caption.35}
+\contentsline {figure}{\numberline {23}{\ignorespaces 2\IeC {\textordmasculine } Termo de Consentimento - 1\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o}}{61}{figure.caption.36}
+\contentsline {figure}{\numberline {24}{\ignorespaces 3\IeC {\textordmasculine } Termo de Consentimento - 1\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o}}{62}{figure.caption.37}
+\contentsline {figure}{\numberline {25}{\ignorespaces 1\IeC {\textordmasculine } Termo de Consentimento - 2\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o}}{63}{figure.caption.38}
+\contentsline {figure}{\numberline {26}{\ignorespaces 2\IeC {\textordmasculine } Termo de Consentimento - 2\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o}}{64}{figure.caption.39}
+\contentsline {figure}{\numberline {27}{\ignorespaces 1\IeC {\textordmasculine } Termo de Consentimento - 3\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o / 1\IeC {\textordmasculine } Intera\IeC {\c c}\IeC {\~a}o}}{65}{figure.caption.40}
+\contentsline {figure}{\numberline {28}{\ignorespaces 2\IeC {\textordmasculine } Termo de Consentimento - 3\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o / 1\IeC {\textordmasculine } Intera\IeC {\c c}\IeC {\~a}o}}{66}{figure.caption.41}
+\contentsline {figure}{\numberline {29}{\ignorespaces 3\IeC {\textordmasculine } Termo de Consentimento - 3\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o / 1\IeC {\textordmasculine } Intera\IeC {\c c}\IeC {\~a}o}}{67}{figure.caption.42}
+\contentsline {figure}{\numberline {30}{\ignorespaces 4\IeC {\textordmasculine } Termo de Consentimento - 3\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o / 1\IeC {\textordmasculine } Intera\IeC {\c c}\IeC {\~a}o}}{68}{figure.caption.43}
+\contentsline {figure}{\numberline {31}{\ignorespaces 5\IeC {\textordmasculine } Termo de Consentimento - 3\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o / 1\IeC {\textordmasculine } Intera\IeC {\c c}\IeC {\~a}o}}{69}{figure.caption.44}
+\contentsline {figure}{\numberline {32}{\ignorespaces 1\IeC {\textordmasculine } Termo de Consentimento - 3\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o / 2\IeC {\textordmasculine } Intera\IeC {\c c}\IeC {\~a}o}}{70}{figure.caption.45}
+\contentsline {figure}{\numberline {33}{\ignorespaces 2\IeC {\textordmasculine } Termo de Consentimento - 3\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o / 2\IeC {\textordmasculine } Intera\IeC {\c c}\IeC {\~a}o}}{71}{figure.caption.46}
+\contentsline {figure}{\numberline {34}{\ignorespaces 3\IeC {\textordmasculine } Termo de Consentimento - 3\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o / 2\IeC {\textordmasculine } Intera\IeC {\c c}\IeC {\~a}o}}{72}{figure.caption.47}
+\contentsline {figure}{\numberline {35}{\ignorespaces 4\IeC {\textordmasculine } Termo de Consentimento - 3\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o / 2\IeC {\textordmasculine } Intera\IeC {\c c}\IeC {\~a}o}}{73}{figure.caption.48}
+\contentsline {figure}{\numberline {36}{\ignorespaces 5\IeC {\textordmasculine } Termo de Consentimento - 3\IeC {\textordmasculine } Avalia\IeC {\c c}\IeC {\~a}o / 2\IeC {\textordmasculine } Intera\IeC {\c c}\IeC {\~a}o}}{74}{figure.caption.49}
